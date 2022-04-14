@@ -1,8 +1,15 @@
 # Office 365 Extended Teams Integration #
 
-TODO Describe the plugin shortly here.
+This is an extension to official local_o365 to allow management of Teams channels 
+and other improvements in o365 connection with moodle
 
-TODO Provide more detailed description here.
+## Features
+ * usersmatch task to pre-match users by email. This allows a better user synchronization. 
+   Normally o365 only add to Teams to matched users in moodle.
+ * Add a site label and shortname to Teams names in o365   
+ * Add private channels for moodle groups in a course that match an group idnumber pattern.
+ * Add o365 usergroups (i.e. plain user lists, for mail) for each moodle group
+
 
 ## Installing via uploaded ZIP file ##
 
